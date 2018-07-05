@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DisDetector3</string>
+    <string name="result">Sentiment results</string>
+    <string name="sentence">Type in sentence Result </string>
+    <string name="buttons">Search</string>
+</resources>
